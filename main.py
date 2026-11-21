@@ -12,7 +12,7 @@ POEM = """The cursor blinks.
 I lift my hand from the keys
 and the machine keeps waiting —
 patient as a dog at a door
-I left ajar.
+I never closed.
 
 Nothing breaks.
 The room stays mine.
